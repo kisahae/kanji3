@@ -118,5 +118,70 @@ export let kanji = [
                                                         {
     hint: "Close",
     answer: "閉める"
-  }
+  },
+   ,
+ {
+    hint: "Narrow",
+    answer: "狭い"
+  } ,
+                                                        {
+    hint: "Few",
+    answer: "少ない"
+  },
+   {
+    hint: "Boring/usually written in hiragana",
+    answer: "詰まらない"
+  },
+     {
+    hint: "Far",
+    answer: "遠い"
+  },
+   {
+    hint: "Loud/usually written in hiragana",
+    answer: "煩い"
+  },
+      {
+    hint: "Quiet (Adjective)",
+    answer: "おとなしい"
+  },
+        {
+    hint: "Quiet (Environment)",
+    answer: "静か"
+  },
+           {
+    hint: "Sweet",
+    answer: "甘い"
+  },
+           {
+    hint: "Bitter",
+    answer: "苦い"
+  },
+              {
+    hint: "Sour",
+    answer: "酸っぱい"
+  },
+                 {
+    hint: "Kind",
+    answer: "優しい"
+  },
+                   {
+    hint: "Painful",
+    answer: "痛い"
+  },
+                    {
+    hint: "Dormitory",
+    answer: "寮"
+  },
+                       {
+    hint: "Office",
+    answer: "職場"
+  },
+                         {
+    hint: "Husband",
+    answer: "主人"
+  },
+                         {
+    hint: "Wife",
+    answer: "家内"
+  },
 ]
