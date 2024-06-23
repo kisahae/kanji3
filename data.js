@@ -182,5 +182,73 @@ export let kanji = [
   {
     hint: "Wife",
     answer: "家内"
+  },
+  {
+    hint: "House Rent",
+    answer: "家賃"
+  },
+  {
+    hint: "Shoulder",
+    answer: "肩"
+  },
+  {
+    hint: "House Rent",
+    answer: "家賃"
+  },
+  {
+    hint: "Knee",
+    answer: "膝"
+  },
+  {
+    hint: "Pour",
+    answer: "注ぐ"
+  },
+  {
+    hint: "Seperate",
+    answer: "別れる"
+  },
+  {
+    hint: "Dark",
+    answer: "暗い"
+  },
+  {
+    hint: "Hot (Emotional)",
+    answer: "暖かい"
+  },
+  {
+    hint: "Explanation",
+    answer: "説明"
+  },
+  {
+    hint: "Detailed",
+    answer: "詳細"
+  },
+  {
+    hint: "Lake",
+    answer: "湖"
+  },
+  {
+    hint: "Kolam (Pool)",
+    answer: "池"
+  },
+  {
+    hint: "Nomor Urut (Number)",
+    answer: "番号"
+  },
+  {
+    hint: "Nomor/digit",
+    answer: "数字"
+  },
+  {
+    hint: "Voice",
+    answer: "声"
+  },
+  {
+    hint: "Counter for Machine",
+    answer: "台"
+  },
+  {
+    hint: "Spesial",
+    answer: "特別"
   }
 ]
