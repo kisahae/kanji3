@@ -192,8 +192,8 @@ export let kanji = [
     answer: "肩"
   },
   {
-    hint: "House Rent",
-    answer: "家賃"
+    hint: "Arm",
+    answer: "腕"
   },
   {
     hint: "Knee",
@@ -250,5 +250,49 @@ export let kanji = [
   {
     hint: "Spesial",
     answer: "特別"
+  },
+  {
+    hint: "Chest",
+    answer: "胸"
+  },
+  {
+    hint: "Back",
+    answer: "背中"
+  },
+  {
+    hint: "Bottom",
+    answer: "お尻"
+  },
+  {
+    hint: "Sky",
+    answer: "空"
+  },
+  {
+    hint: "As Long As",
+    answer: "限り"
+  },
+  {
+    hint: "Courage",
+    answer: "勇気"
+  },
+  {
+    hint: "Dream",
+    answer: "夢"
+  },
+  {
+    hint: "Surely",
+    answer: "必す"
+  },
+  {
+    hint: "To Come True",
+    answer: "叶う"
+  },
+  {
+    hint: "Overflow",
+    answer: "溢れる"
+  },
+  {
+    hint: "Tears",
+    answer: "涙"
   }
 ]
