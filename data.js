@@ -294,5 +294,13 @@ export let kanji = [
   {
     hint: "Tears",
     answer: "涙"
+  },
+  {
+    hint: "City",
+    answer: "町"
+  },
+  {
+    hint: "Lonely",
+    answer: "寂しい"
   }
 ]
