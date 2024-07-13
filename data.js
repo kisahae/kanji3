@@ -302,5 +302,45 @@ export let kanji = [
   {
     hint: "Lonely",
     answer: "寂しい"
+  },
+  {
+    hint: "Slow",
+    answer: "遅い"
+  },
+  {
+    hint: "Late",
+    answer: "遅れる"
+  },
+  {
+    hint: "Overslept",
+    answer: "寝坊"
+  },
+  {
+    hint: "Normally/Usually",
+    answer: "大抵"
+  },
+  {
+    hint: "Last Night",
+    answer: "夕べ"
+  },
+  {
+    hint: "Actually",
+    answer: "実は"
+  },
+  {
+    hint: "Practice",
+    answer: "練習"
+  },
+  {
+    hint: "Happy",
+    answer: "嬉しい"
+  },
+  {
+    hint: "Novel",
+    answer: "小説"
+  },
+  {
+    hint: "Guest",
+    answer: "お客様"
   }
 ]
