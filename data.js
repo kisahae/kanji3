@@ -342,5 +342,37 @@ export let kanji = [
   {
     hint: "Guest",
     answer: "お客様"
+  },
+  {
+    hint: "Amazing/Terrible",
+    answer: "凄い"
+  },
+  {
+    hint: "To go back",
+    answer: "戻る"
+  },
+  {
+    hint: "To stay (overnight)",
+    answer: "泊まる"
+  },
+  {
+    hint: "Do your best",
+    answer: "頑張る"
+  },
+  {
+    hint: "Pupil/Student",
+    answer: "生徒"
+  },
+  {
+    hint: "To be effective",
+    answer: "効く"
+  },
+  {
+    hint: "Sugar",
+    answer: "砂糖"
+  },
+  {
+    hint: "Normally/Usually",
+    answer: "大抵"
   }
 ]
