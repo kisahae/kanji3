@@ -374,5 +374,25 @@ export let kanji = [
   {
     hint: "Normally/Usually",
     answer: "大抵"
+  },
+  {
+    hint: "To Cost/To Take Time",
+    answer: "掛かる"
+  },
+  {
+    hint: "Nurse (Female)",
+    answer: "看護婦"
+  },
+  {
+    hint: "Event Frequency (Particle)",
+    answer: "回"
+  },
+  {
+    hint: "Nurse (Male)",
+    answer: "看護師"
+  },
+  {
+    hint: "Electric Bill",
+    answer: "電気代"
   }
 ]
