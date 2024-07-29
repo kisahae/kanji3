@@ -372,8 +372,8 @@ export let kanji = [
     answer: "砂糖"
   },
   {
-    hint: "Normally/Usually",
-    answer: "大抵"
+    hint: "Both",
+    answer: "両方"
   },
   {
     hint: "To Cost/To Take Time",
@@ -394,5 +394,9 @@ export let kanji = [
   {
     hint: "Electric Bill",
     answer: "電気代"
+  },
+  {
+    hint: "Escape",
+    answer: "逃げる"
   }
 ]
